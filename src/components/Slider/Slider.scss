@@ -1,0 +1,52 @@
+.slider {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+
+  .slide {
+    width: 100vh;
+    height: 100vh;
+  }
+
+  .slide-1 {
+    background-image: url(https://cdn.iticket.az/event/facebook/1nLNNIewYlc6240tvbL3vbkTzRpU6aXN2QfZEDdq.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .slide-2 {
+    background-image: url(https://cdn.iticket.az/event/cover/wzAXQmXifUrZe4ztK5TREhpaV5CWHNCpgqKfH5gc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .slide-3 {
+    background-image: url(https://cdn.iticket.az/event/cover/YPQ6BlN2b9hWHgyxNJOB6A3PNEQJOfpuI2Z6KiN5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .slide-4 {
+    background-image: url(https://cdn.iticket.az/event/cover/q2X3FJhIrvnFCtaEpS0bhiaW6WUfdRbpRXgequRj.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .slide-5 {
+    background-image: url(https://cdn.iticket.az/event/facebook/QnEHYGq1jPjPnIJLsiCbFA1UhDByA6M1JhqHMG88.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .slide-6 {
+    background-image: url(https://i.ytimg.com/vi/y9WQpiAeLvE/maxresdefault.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
